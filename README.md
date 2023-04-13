@@ -1,18 +1,15 @@
-## Getting Started
+===== ДЗ 1
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Реализовать, с учетом ооп подхода, приложение.
+Для проведения исследований с генеалогическим древом.
+Идея: описать некоторое количество компонент, например:
+модель человека и дерева
+Под “проведением исследования” можно понимать например получение всех детей выбранного человека.
 
-## Folder Structure
+Сделать PR к проекту: https://github.com/Liberate520/homeWork
+В качестве ответа указать ссылку на PR
+Ссылка на то как сделать пулреквест смотри в материалах к уроку
+Если PR все таки не дается, то можно и ссылкой на гит репозиторий
+по вопросам дз можно написать @Liberate520
 
-The workspace contains two folders by default, where:
-
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+===== ДЗ 2
